@@ -12,7 +12,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 mv ~/.zshrc ~/.zshrc.old
 
 # Link Zsh config
-ln -sf ~/dotfiles/.zshrc ~/.zshrc
+ln -sf ~/dotfiles/zsh/.zshrc ~/.zshrc
 
 # Reload zsh config
 source ~/.zshrc
