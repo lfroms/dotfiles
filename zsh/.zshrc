@@ -4,8 +4,7 @@ ZSH_THEME="spaceship"
 
 plugins=(
   git 
-  zsh-autosuggestions 
-  zsh-syntax-highlighting
+  zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
