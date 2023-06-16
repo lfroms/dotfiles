@@ -6,6 +6,8 @@
 	<false/>
 	<key>AllowTabbarInTitlebarAccessoryBigSur</key>
 	<false/>
+	<key>AlternateMouseScroll</key>
+	<true/>
 	<key>BadgeFont</key>
 	<string>Helvetica</string>
 	<key>BadgeFontIsBold</key>
